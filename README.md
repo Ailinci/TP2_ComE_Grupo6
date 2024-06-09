@@ -23,5 +23,6 @@ Con este método finalizamos la ejecución del programa y mostramos el total de 
 
 Test()
 Se agregó también la ejecución del método TEST, que contiene un template de algunas respuestas básicas para poder probar el flujo principal de la aplicación sin tener que ir ingresando campo por campo. Este método funciona llamando a las ejecuciones reales, simulando el ingreso por consola de los datos que se solicitan.
+![UML](https://github.com/Ailinci/TP2_ComE_Grupo6/assets/142456911/8c8858b1-70ca-4ac6-914f-3f2432d123ac)
 
 
